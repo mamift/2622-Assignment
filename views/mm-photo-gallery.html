@@ -1,0 +1,80 @@
+<!-- Muhammad Mifah s2757691 -->
+<!-- associated contrlr: mm-photogallery.js :: photogalleryScreenCtrlFn -->
+<div class="row mm-app-container">
+    <div class="col-md-2 mm-list-1 affix">  
+        <div class="mm-list-1-item">
+            <h3 class="mm-folder-title">
+                {{ p.currentAlbum.name }}
+            </h3>
+            <input type="text" id="mm-search-box" placeholder="Search here" class="form-control"
+                ng:show="p.albumCount > 0 && p.$dmsTravelDataSvc.fbAllAlbumPhotosDownloaded" 
+                ng:model="p.searchText"
+                ng:keypress="p.searchCurrentAlbumPhotos($event)" />
+        </div>
+
+        <div class="mm-list-1-item">
+            <h4 class="mm-folder-title">
+                Photo Album List<span class="badge"> {{ p.albumCount }}</span>
+            </h4>
+        </div>
+
+        <div class="mm-list-1-item" ng:repeat="album in p.albums">
+            <h5 class="mm-folder-subtitle" ng:click="p.setCurrentAlbum(album.id)">
+                {{ album.name }} <span class="badge">{{ album.count }}</span>
+            </h5>
+        </div>
+
+        <div class="mm-list-1-item" ng:hide="p.albumCount > 0">
+            <h5 class="mm-folder-subtitle">
+                <span class="badge">Loading...</span>
+            </h5>
+        </div>
+
+        <div class="mm-list-1-item" ng:show="p.albumCount > 0">
+            <h4 class="mm-folder-subtitle">
+                <mm:button class="btn-sm btn-success" ng:click="p.sortCurrentAlbum(p.currentAlbumPhotos)">
+                    <span style="font-weight: bold;">
+                        Sort by Likes
+                    </span>
+                </mm:button>
+            </h4>
+        </div>
+    </div>
+
+    <!-- Breaking element to fix position: fixed on list-1 -->
+    <div class="col-md-2 mm-breaker">&nbsp;</div>
+
+    <!-- Item list -->
+    <div class="col-md-10 mm-list-2"> 
+        <div class="list-group">
+            <div class="thumbnail col-md-3 mm-photo-thumbnail slide-top" ng:repeat="photo in p.currentAlbumPhotos">
+                <!-- <img src="../../images/world-map-background-halfsize.jpg" /> -->
+                <a href="{{ photo.source }}" data-lightbox="mm-lightbox" data-title="{{ photo.name || '(images has no name)' }}">
+                    <img ng:src="{{ p.getThumbnailImage(photo.id).source }}" alt="{{ photo.name }}" 
+                        data-lightbox="photos" 
+                        data-title="{{ photo.title || '(image has no name)' }}" />
+                </a>
+                <div class="caption">
+                    <h5>
+                        <p class="mm-photo-description">
+                            <img ng:src="{{ photo.icon }}" />&nbsp;{{ photo.name || "No name" }}
+                        </p> 
+                        <!-- <p>{{ photo.id }}</p> -->
+                    </h5>
+                    <p class="fb-btns">
+                        <a ng:click="p.likePhoto(photo.id)" class="btn btn-xs btn-primary" role="button" 
+                            popover="Liked {{ p.currentAlbumPhotoLikes[photo.id].length }} times" 
+                            popover-trigger="mouseenter" 
+                            popover-placement="top" 
+                            popover-popup-delay="0">
+
+                            <img src="../../images/fb-btn-fbblue.png" style="float: left;" />
+                            <span>Like &#40;{{ p.currentAlbumPhotoLikes[photo.id].length }}&#41;</span>
+                        </a> 
+                        <a href="{{ photo.link }}" target="_blank" class="btn btn-xs btn-default" role="button">View...</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

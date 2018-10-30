@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="Muhammad Miftah s2757691" version="1" xmlns="Muhammad Miftah s2757691"
+    xmlns:mm="Muhammad Miftah s2757691">
+    <xs:element name="body">
+        <xs:complexType>
+            <xs:sequence maxOccurs="1">
+                <xs:element name="nav">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element maxOccurs="unbounded" name="navbar">
+                                <xs:complexType>
+                                    <xs:choice>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="navlinks">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element name="navlink"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="navlink"/>
+                                    </xs:choice>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

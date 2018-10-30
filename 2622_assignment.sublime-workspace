@@ -1,0 +1,1723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"lik",
+				"liked"
+			],
+			[
+				"ph",
+				"photoId"
+			],
+			[
+				"phot",
+				"photo"
+			],
+			[
+				"cur",
+				"currentAlbumPhotoLikes  (variable)"
+			],
+			[
+				"photo",
+				"photoId"
+			],
+			[
+				"fb",
+				"fbLoggedIn  (variable)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"app",
+				"appIDt"
+			],
+			[
+				"Face",
+				"FacebookProvider"
+			],
+			[
+				"sor",
+				"sortToggle"
+			],
+			[
+				"currentAlbumPhotosL",
+				"currentAlbumPhotoLikes  (variable)"
+			],
+			[
+				"update",
+				"updateCurrentAlbumPhotoLikes"
+			],
+			[
+				"fbP",
+				"fbPage"
+			],
+			[
+				"cu",
+				"currentAlbumPhotoLikes  (variable)"
+			],
+			[
+				"alb",
+				"album"
+			],
+			[
+				"dow",
+				"downloaded"
+			],
+			[
+				"pho",
+				"photoId"
+			],
+			[
+				"alre",
+				"alreadyLiked"
+			],
+			[
+				"getPho",
+				"getPhotoLikes"
+			],
+			[
+				"search",
+				"searchResults"
+			],
+			[
+				"curr",
+				"currentAlbum"
+			],
+			[
+				"contr",
+				"controllerAs"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"lis",
+				"listen"
+			],
+			[
+				"curre",
+				"currentAlbumPhotos"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pt",
+				"photoId"
+			],
+			[
+				"getPh",
+				"getPhotoLikes"
+			],
+			[
+				"twe",
+				"twentyfive_percent_smaller_x"
+			],
+			[
+				"fif",
+				"fifty_percent_y"
+			],
+			[
+				"fi",
+				"fifty_percent_x"
+			],
+			[
+				"thu",
+				"thubmnailSize"
+			],
+			[
+				"fbal",
+				"fbAlbumPhotosArray  (variable)"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"retu",
+				"returnedPhoto"
+			],
+			[
+				"fbAlb",
+				"fbAlbumPhotosArray  (variable)"
+			],
+			[
+				"albu",
+				"albumById"
+			],
+			[
+				"getP",
+				"getPhotoForId"
+			],
+			[
+				"ret",
+				"returnedPhoto"
+			],
+			[
+				"fbPh",
+				"fbAlbumPhotos  (variable)"
+			],
+			[
+				"setCu",
+				"setCurrentAlbum"
+			],
+			[
+				"$rout",
+				"$routeProvider"
+			],
+			[
+				"fbPho",
+				"fbPhotoAlbums"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"down",
+				"downloadedPhotoCount"
+			],
+			[
+				"ab",
+				"album"
+			],
+			[
+				"get",
+				"getPhotoAlbumCount  (function)"
+			],
+			[
+				"album",
+				"albumId"
+			],
+			[
+				"perform",
+				"performGetAlbumPhotos"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"$n",
+				"$notify"
+			],
+			[
+				"face",
+				"facebookDataService"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"mmP",
+				"mmPopover_data"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"att",
+				"attr_string"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"first",
+				"firstChild"
+			],
+			[
+				"tran",
+				"transclude_elem"
+			],
+			[
+				"clone",
+				"clone"
+			],
+			[
+				"per",
+				"performGetDMSTravelPageObject"
+			],
+			[
+				"fbPa",
+				"fbPageIDs"
+			],
+			[
+				"o",
+				"oVal"
+			],
+			[
+				"moda",
+				"modal_div"
+			],
+			[
+				"mod",
+				"modal_div"
+			],
+			[
+				"trans",
+				"transclude"
+			],
+			[
+				"Not",
+				"NotificationSvc  (function)"
+			],
+			[
+				"ng",
+				"ng_click_value"
+			],
+			[
+				"reo",
+				"removeAllAttributes"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"splas",
+				"splashCtrl"
+			],
+			[
+				"bra",
+				"brandclass"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"bran",
+				"brandlink"
+			],
+			[
+				"dir",
+				"directive_def"
+			],
+			[
+				"href",
+				"href_value"
+			],
+			[
+				"repl",
+				"replaceWith"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"dro",
+				"dropdownlink"
+			],
+			[
+				"mmN",
+				"mmNavlinks"
+			],
+			[
+				"template",
+				"template"
+			],
+			[
+				"appen",
+				"appendTo  (function)"
+			],
+			[
+				"templa",
+				"templateUrl"
+			],
+			[
+				"$routeP",
+				"$routeParams"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"hover",
+				"hover-text"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"boot",
+				"bootstrap-border-radius-size"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"border-radius-top",
+				"-moz-border-radius-topright:   (property)"
+			],
+			[
+				"e",
+				"visible"
+			],
+			[
+				"Main",
+				"MainCtlr"
+			],
+			[
+				"com",
+				"composeEmail"
+			],
+			[
+				"inter",
+				"interestingPhotos"
+			],
+			[
+				"Noti",
+				"NotificationSvc"
+			],
+			[
+				"siz",
+				"sizeObj"
+			],
+			[
+				"si",
+				"sizeObj"
+			],
+			[
+				"noti",
+				"Notifications"
+			],
+			[
+				"Fli",
+				"FlickrSvc"
+			],
+			[
+				"fli",
+				"flickrAPIKey"
+			],
+			[
+				"flic",
+				"flickrModule"
+			],
+			[
+				"getPhot",
+				"getPhotoFavouriteMetadata"
+			],
+			[
+				"Fl",
+				"FlickrSvc"
+			],
+			[
+				"p",
+				"photo"
+			],
+			[
+				"inte",
+				"interestingPhotos"
+			],
+			[
+				"Flc",
+				"FlickrSvc"
+			],
+			[
+				"las",
+				"lastUsedKeyword"
+			],
+			[
+				"re",
+				"requestURL"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"searchP",
+				"searchForPhotos"
+			],
+			[
+				"Flickr",
+				"FlickrSvc"
+			],
+			[
+				"flick",
+				"flickr_interestingPhotos"
+			],
+			[
+				"getFa",
+				"getFavouritesHTML"
+			],
+			[
+				"_pho",
+				"_photoObject"
+			],
+			[
+				"_phot",
+				"_photoObject"
+			],
+			[
+				"_ph",
+				"_photoID"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"object",
+				"objectData"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"dis",
+				"displayPhotos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 747 files for \"appId\"\n\nC:\\inetpub\\projects\\2622-Assignment\\index.js:\n   65   */\n   66  function facebookProviderFn(FacebookProvider) {\n   67:     var appID = '584471748350915';\n   68  \n   69:     FacebookProvider.init(appID);\n   70:     console.log(\"Facebook Provider init(appID: \" + appID + \");\");\n   71  }\n   72  \n\nC:\\inetpub\\projects\\2622-Assignment\\bower_components\\angular-facebook\\README.md:\n   29  \n   30    .config(function(FacebookProvider) {\n   31:      // Set your appId through the setAppId method or\n   32       // use the shortcut in the initialize method directly.\n   33       FacebookProvider.init('YOUR_APP_ID');\n\nC:\\inetpub\\projects\\2622-Assignment\\bower_components\\angular-facebook\\lib\\angular-facebook.js:\n   48  \n   49          /**\n   50:          * Facebook appId\n   51           * @type {Number}\n   52           */\n   53:         settings.appId = null;\n   54  \n   55:         this.setAppId = function(appId) {\n   56:           settings.appId = appId;\n   57          };\n   58  \n   59:         this.getAppId = function() {\n   60:           return settings.appId;\n   61          };\n   62  \n   ..\n  236           */\n  237          this.init = function(initSettings, _loadSDK) {\n  238:           // If string is passed, set it as appId\n  239            if (angular.isString(initSettings)) {\n  240:             settings.appId = initSettings || settings.appId;\n  241            }\n  242  \n  ...\n  265               */\n  266              function NgFacebook() {\n  267:               this.appId = settings.appId;\n  268              }\n  269  \n  ...\n  527            // Initialize our Facebook app\n  528            $timeout(function() {\n  529:             if (!settings.appId) {\n  530:               throw 'Missing appId setting.';\n  531              }\n  532  \n\n21 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 1809,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"SASS",
+				"Set Syntax: Sass"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angular js",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"angularjs",
+				"AngularJS: Toggle - Disable All Completions"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-J"
+			],
+			[
+				"object",
+				"Set Syntax: Javascript (Objective-J)"
+			],
+			[
+				"obje",
+				"Set Syntax: Objective-J"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"smar",
+				"Set Syntax: Smarty"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"disoc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"synt",
+				"Set Syntax: C"
+			],
+			[
+				"snippet if",
+				"Snippet: if …"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"smart",
+				"Set Syntax: Smarty"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax: xml",
+				"Set Syntax: XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set syntax: obj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package contro",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"comple",
+				"Objective-J: Generate Completions"
+			],
+			[
+				"generate",
+				"Objective-J: Generate Completions"
+			],
+			[
+				"set syntax: objec",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/projects/2622-Assignment",
+		"/C/inetpub/projects/2622-Assignment/views"
+	],
+	"file_history":
+	[
+		"/C/inetpub/projects/2622-Assignment/views/mm-splash-screen.html",
+		"/C/inetpub/projects/2622-Assignment/controllers/mm-facebook.js",
+		"/C/inetpub/projects/2622-Assignment/bower_components/angular-facebook/README.md",
+		"/C/inetpub/projects/2622-Assignment/views/styles/default.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/styles/mm-mixins.scss",
+		"/Users/Muhammad/Sites/Archive/CappStarter/itps12013/index-debug.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/styles/default.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/bootstrap-sass-official/bower.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/index.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/mm-jquery-plugins.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/templates/mm-navbar.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/index.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/models/mm-facebookdmsTravel.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-splash.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-photogallery.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-facebook.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-documentation.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-directives.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-aboutus.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/bootswatch-scss/global/build.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/bootswatch-scss/composer.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/2622_assignment.sublime-project",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/templates/mm-modal.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-notifications.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-about-us.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-documentation.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-photo-gallery.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-splash-screen.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/templates/mm-modal-footer.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/templates/mm-modal-body.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/templates/mm-modal-header.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/templates/mm-navbar-dropdown.html",
+		"/Users/Muhammad/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Muhammad/Downloads/codecanyon-7194641-laravel-cms-crud-builder-administrator/database/database.sql",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/lightbox2/css/lightbox.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-route/README.md",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-directives.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-facebook/lib/angular-facebook.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/styles/mm-typography.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/jquery/MIT-LICENSE.txt",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/bootswatch-scss/bower.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-route/package.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/ngFx/bower.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/bootstrap/bower.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-bootstrap/bower.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/animate.css/animate.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/transitions/transitions.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/facebook-screen.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/models/mm-dmsTravel.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/photo-gallery.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/splash-screen.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/styles/colours.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/ngFx/dist/ngFx.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/animate.css/animate.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/photo-gallery-detail.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/styles/colours.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-photogallery.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/Notifications.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/controllers/mm-dmsTravel.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/jQuery-plugins.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/fn.prototype.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-bootstrap/ui-bootstrap.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-bootstrap/.bower.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/jQuery-plugin-removeAttributes.js",
+		"/Users/Muhammad/Library/Application Support/Sublime Text 2/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/Info.plist",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/angular-facebook/testapp/index.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/FB-f-Logo__blue_29.png",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/facebook.js",
+		"/Users/Muhammad/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/Muhammad/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/default.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/splashs-screen.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-mixins.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/mm-typography.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/views/default.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navbar.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/main.j",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/bower_components/Frameworks/Foundation/ObjJ.environment/Foundation.sj",
+		"/Users/Muhammad/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment/index.xhtml",
+		"/Users/Muhammad/Downloads/generation.iron.(2013).eng.1cd.(5753120)/Generation.Iron.2013.720p.BluRay.x264.DTS-RARBG.srt",
+		"/Users/Muhammad/Downloads/captain.america.the.first.avenger.(2011).eng.1cd.(5650920)/Captain America The First Avenger (2011)-720p-BRRip-x.264-[Telugu dubbed Ac3 5.1-Tamil-Eng.srt",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/style/transitions.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/bower_components/angular/angular-animate.min.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/test.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/style/animations.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/models/Flickr.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/style/animate.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/style/animate.css",
+		"/Users/Muhammad/Dropbox/Documents/debt_collector_2014/e-mail thread/0 5 wana, possible overpayment of rent.eml",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/style/default.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/controllers/index.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/style/default.scss",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/index.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/js/default.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/controllers/Notifications.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/js/index.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/js/app.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/bower_components/angular/angular.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab-10/index.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/index.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/js/default.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/style/default.scss",
+		"/Users/Muhammad/Dropbox/PlainText/Applus.txt",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/w7/index.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/style/default.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/style/lightbox.css",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Week-4-lab-3/js/default.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Week-4-lab-3/index.html",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/js/photos.json",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Lab/server.js",
+		"/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/for-loops.html",
+		"/Volumes/MIFARC1/XData/BOOKS/gunzip_tar.sh",
+		"/Users/Muhammad/Sites/chinshine/app/views/index.tpl",
+		"/Users/Muhammad/Sites/chinshine/app/views/admin/index.tpl",
+		"/Users/Muhammad/Sites/chinshine/app/libraries/smarty/plugins/function.formgenerator.php",
+		"/Users/Muhammad/Sites/chinshine/app/libraries/smarty/plugins/block.form.php",
+		"/Users/Muhammad/Sites/chinshine/app/libraries/smarty/plugins/block.php.php",
+		"/Users/Muhammad/Sites/chinshine/app/libraries/smarty/plugins/function.formtoken.php",
+		"/Users/Muhammad/Sites/chinshine/app/libraries/smarty/plugins/function.formclose.php",
+		"/Users/Muhammad/Sites/chinshine/app/libraries/smarty/plugins/function.formopen.php",
+		"/Users/Muhammad/Sites/chinshine/composer.json",
+		"/Users/Muhammad/Sites/chinshine/vendor/dark/smarty-view/src/Dark/SmartyView/SmartyEngine.php",
+		"/Users/Muhammad/Sites/chinshine/vendor/dark/smarty-view/src/config/config.php",
+		"/Users/Muhammad/Sites/chinshine/app/config/app.php",
+		"/Users/Muhammad/Sites/chinshine/app/views/navbar.tpl",
+		"/Users/Muhammad/Sites/chinshine/public/sass/admin.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"<open files>,/Users/Muhammad/OneDrive/University/2014 Semester 2 2622ICT/Assignment",
+			"<open files>",
+			"<open folders>",
+			"/Users/Muhammad/Sites/chinshine/vendor/dark",
+			"/Users/Muhammad/Sites/shakesta/vendor/dark",
+			"/Users/Muhammad/Sites/shakesta/vendor",
+			"/Users/Muhammad/Sites/shakesta/app/vendor",
+			"/Users/Muhammad/Sites/shakesta/app",
+			"/Users/Muhammad/Sites/shakesta/app/views",
+			"/Users/Muhammad/Sites/shakesta/",
+			"/Users/Muhammad/Sites/shakesta/public",
+			"/Users/Muhammad/Sites/shakesta/app/views",
+			"/Users/Muhammad/Sites/shakesta/",
+			"/Users/Muhammad/Sites/shakesta/app/views",
+			"/Users/Muhammad/Sites/shakesta",
+			"/Users/Muhammad/Sites/thawng/chinshine",
+			"/Volumes/www/chinshine",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"appId",
+			"src=\"/",
+			"getLoginStatus",
+			"box-shad",
+			"ng-",
+			"each(",
+			"getThumbnail",
+			"cloneAndConvert",
+			"sort",
+			"currentAlbumPhotoLIk",
+			"likePhoto",
+			"currentAlbumPhotoLIkes",
+			"self.fbLoggedIn",
+			"checkLoginStatus()",
+			"login",
+			"likePho",
+			"fbLogged",
+			"logout",
+			"likePhot",
+			"$dmsTravelDataSvc.checkLoginStatus()",
+			"publish",
+			"user_publish",
+			"Facebook.init(",
+			"img/loading.gif",
+			"logg",
+			".png",
+			"fb-btn-fbblue.png",
+			":",
+			"p>",
+			"<p",
+			"documentationCtrl",
+			"aboutusCtrl",
+			"aboutusCtrlFn",
+			"Notifications",
+			"albumCount",
+			"fbAuthResponse",
+			"fbLoggedIn",
+			"self.fbReady",
+			"getPhotoLikes(",
+			"sortCurrent",
+			"setCurrentAlbum",
+			"setCurrentAlb",
+			"updateCurrentAlbumPhotoLikes",
+			"likePho",
+			"photogalleryScreenCtrl.likedPhoto",
+			"updateCurrentAlbumPhotoLikes",
+			"photogalleryScreenCtrl.unlikedPhoto",
+			"likePhoto",
+			"setCurrentAlb",
+			"updateCurrentAlbumPhotoLikes",
+			"photogalleryScreenCtrl.unlikedPhoto",
+			"ul",
+			"likePhot",
+			"setCurrentAlbum(",
+			"updateCurrentAlbumPhotoLikes",
+			"setCurrentAlb",
+			"Facebook.api(",
+			"like",
+			"currentAlbumPhotoLikes",
+			"updateCurrentAlbumPhotoLikes",
+			"likePhoto",
+			"currentAlbumPhotoLikes",
+			"getCurrentAlbumPhotoLikes",
+			"setCurrentAlbum",
+			"getCurrentAlbumPhotoLikes",
+			"getPhotoLikes",
+			"album",
+			"getCurrentAlb",
+			"setCurrentAlbum",
+			"fbPage",
+			"self.fbPage",
+			"performGetPhotoAlb",
+			"error)",
+			"performGetFbPageObj",
+			"dispatch(\"fbPage",
+			"console.log",
+			"console",
+			"currentAlbumPhotoLikes",
+			"getPhotoForId",
+			"likePho",
+			"Login",
+			"api",
+			"Facebook",
+			"Like",
+			"setCurrentAl",
+			"> img",
+			"../img/",
+			"splashScreenCtrlFn",
+			"folder",
+			"white-space: no",
+			"h4",
+			"h5",
+			"hover",
+			"1",
+			"view-",
+			" delay-1s",
+			"iteration-count",
+			"1)",
+			"opacity: 0.1",
+			"dispatch(",
+			"setCurrentAlbum(",
+			"this.setCurrentAlbum",
+			"setCurrentAlb",
+			"10s",
+			"self.currentAlbum",
+			"currentAlb",
+			"h4",
+			"150%",
+			"150",
+			"3s",
+			"to",
+			"from",
+			"animatedBackground",
+			"sm",
+			"btn-sm",
+			"320px",
+			"h3",
+			"h7",
+			"200px",
+			"h3",
+			"<p>",
+			"p",
+			"(please",
+			"please log",
+			"max-",
+			"affix",
+			"position: fixe",
+			"setCurrentAlbum"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"closeform",
+			"",
+			"num_items_per_page",
+			" ",
+			"subnetMask",
+			"}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										160,
+										165
+									],
+									[
+										228,
+										233
+									],
+									[
+										283,
+										288
+									],
+									[
+										294,
+										299
+									],
+									[
+										486,
+										491
+									],
+									[
+										507,
+										512
+									],
+									[
+										790,
+										795
+									],
+									[
+										872,
+										877
+									],
+									[
+										917,
+										922
+									],
+									[
+										934,
+										939
+									],
+									[
+										969,
+										974
+									],
+									[
+										977,
+										982
+									],
+									[
+										1033,
+										1038
+									],
+									[
+										1087,
+										1092
+									],
+									[
+										1258,
+										1263
+									],
+									[
+										1347,
+										1352
+									],
+									[
+										1380,
+										1385
+									],
+									[
+										1512,
+										1517
+									],
+									[
+										1529,
+										1534
+									],
+									[
+										1691,
+										1696
+									],
+									[
+										1736,
+										1741
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2622_assignment.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"default",
+				"views/styles/default.scss"
+			],
+			[
+				"mm-mix",
+				"views/styles/mm-mixins.scss"
+			],
+			[
+				"scss",
+				"views/styles/default.scss"
+			],
+			[
+				"bower.js",
+				"bower_components/bootstrap-sass-official/bower.json"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"direc",
+				"controllers/mm-directives.js"
+			],
+			[
+				"jquer",
+				"bower_components/mm-jquery-plugins.js"
+			],
+			[
+				"jquery-pl",
+				"bower_components/mm-jquery-plugins.js"
+			],
+			[
+				"mm-moda",
+				"views/templates/mm-modal.html"
+			],
+			[
+				"mm-noti",
+				"controllers/mm-notifications.js"
+			],
+			[
+				"dmst",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"faceboo",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"face",
+				"controllers/mm-facebook.js"
+			],
+			[
+				"mm-mi",
+				"views/styles/mm-mixins.scss"
+			],
+			[
+				"navbar",
+				"views/templates/mm-navbar.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"direct",
+				"controllers/mm-directives.js"
+			],
+			[
+				"navb",
+				"views/templates/mm-navbar.html"
+			],
+			[
+				"modalfo",
+				"views/templates/mm-modal-footer.html"
+			],
+			[
+				"modalb",
+				"views/templates/mm-modal-body.html"
+			],
+			[
+				"modal-hea",
+				"views/templates/mm-modal-header.html"
+			],
+			[
+				"modal",
+				"views/templates/mm-modal.html"
+			],
+			[
+				"mm-nav",
+				"views/templates/mm-navbar.html"
+			],
+			[
+				"mm-dire",
+				"controllers/mm-directives.js"
+			],
+			[
+				"dms",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"photo",
+				"controllers/mm-photogallery.js"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"dmstr",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"ind",
+				"index.js"
+			],
+			[
+				"phot",
+				"controllers/mm-photogallery.js"
+			],
+			[
+				"",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"inde",
+				"index.js"
+			],
+			[
+				"splas",
+				"views/mm-splash-screen.html"
+			],
+			[
+				"gall",
+				"views/mm-photo-gallery.html"
+			],
+			[
+				"mm-ab",
+				"controllers/mm-aboutus.js"
+			],
+			[
+				"abou",
+				"views/mm-about-us.html"
+			],
+			[
+				"mm",
+				"controllers/mm-photogallery.js"
+			],
+			[
+				"mm-dm",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"about",
+				"views/mm-about-us.html"
+			],
+			[
+				"spl",
+				"controllers/mm-splash.js"
+			],
+			[
+				"noti",
+				"controllers/mm-notifications.js"
+			],
+			[
+				"dmstra",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"def",
+				"views/styles/default.scss"
+			],
+			[
+				"ani",
+				"bower_components/animate.css/animate.scss"
+			],
+			[
+				"mm-face",
+				"models/mm-facebookdmsTravel.js"
+			],
+			[
+				"typ",
+				"views/styles/mm-typography.scss"
+			],
+			[
+				"pho",
+				"views/mm-photo-gallery.html"
+			],
+			[
+				"tran",
+				"bower_components/transitions/transitions.scss"
+			],
+			[
+				"anim",
+				"bower_components/animate.css/animate.scss"
+			],
+			[
+				"trans",
+				"bower_components/transitions/transitions.scss"
+			],
+			[
+				"defa",
+				"views/styles/default.scss"
+			],
+			[
+				"not",
+				"controllers/mm-notifications.js"
+			],
+			[
+				"colo",
+				"views/styles/colours.scss"
+			],
+			[
+				"ng",
+				"bower_components/ngFx/dist/ngFx.js"
+			],
+			[
+				"mm-pho",
+				"controllers/mm-photogallery.js"
+			],
+			[
+				"color",
+				"views/styles/colours.scss"
+			],
+			[
+				"p",
+				"views/photo-gallery.html"
+			],
+			[
+				"splash",
+				"controllers/mm-splash.js"
+			],
+			[
+				"photga",
+				"controllers/mm-photogallery.js"
+			],
+			[
+				"galler",
+				"views/photo-gallery.html"
+			],
+			[
+				"mmsl",
+				"controllers/mm-splash.js"
+			],
+			[
+				"spla",
+				"controllers/mm-splash.js"
+			],
+			[
+				"mmtra",
+				"models/mm-dmsTravel.js"
+			],
+			[
+				"notif",
+				"bower_components/Notifications.js"
+			],
+			[
+				"fn.",
+				"bower_components/fn.prototype.js"
+			],
+			[
+				"fn.p",
+				"bower_components/fn.prototype.js"
+			],
+			[
+				"jq",
+				"bower_components/jQuery-plugin-removeAttributes.js"
+			],
+			[
+				"mm-d",
+				"views/mm-directives.js"
+			],
+			[
+				"plug",
+				"bower_components/jQuery-plugin-removeAttributes.js"
+			],
+			[
+				"mm-di",
+				"views/mm-directives.js"
+			],
+			[
+				"jquery",
+				"bower_components/jQuery-plugin-removeAttributes.js"
+			],
+			[
+				"mm-fac",
+				"controllers/mm-facebook.js"
+			],
+			[
+				"faceb",
+				"controllers/mm-facebook.js"
+			],
+			[
+				"default.scs",
+				"views/styles/default.scss"
+			],
+			[
+				"mm-fa",
+				"controllers/mm-facebook.js"
+			],
+			[
+				"colours",
+				"views/styles/colours.scss"
+			],
+			[
+				"colour",
+				"views/styles/colours.css"
+			],
+			[
+				"angular-face",
+				"bower_components/angular-facebook/lib/angular-facebook.js"
+			],
+			[
+				"jquery-",
+				"bower_components/jQuery-plugin-removeAttributes.js"
+			],
+			[
+				"mm-",
+				"views/templates/mm-navbar.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Muhammad/Developer/Objective-J/ComputerArray.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 138.0,
+		"last_filter": "r404",
+		"selected_items":
+		[
+			[
+				"r404",
+				"r404_json"
+			],
+			[
+				"results",
+				"results"
+			]
+		],
+		"width": 707.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

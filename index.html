@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!-- If you see a tag name beginning with mm, it's one that I (Muhammad Miftah) made using angularjs -->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:ng="http://angularjs.org" xmlns:mm="urn:'Muhammad Miftah s2757691'"
+    ng:app="s2757691_2622ict_assignment">
+
+    <head>
+        <title>DMS Travel - Muhammad's 2622ICT Assignment</title>
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <style type="text/css">
+            @import url('bower_components/animate.css/animate.css');
+            @import url('bower_components/transitions/transitions.css');
+            /*@import url('bower_components/bootstrap/dist/css/bootstrap.css');*/
+            @import url('bower_components/lightbox2/css/lightbox.css');
+            @import url('views/styles/default.css');
+        </style>
+
+        <script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+        <script type="text/javascript" src="bower_components/mm-jquery-plugins.js"></script>
+
+        <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+        <script type="text/javascript" src="bower_components/lightbox2/js/lightbox.js"></script>
+        
+        <script type="text/javascript" src="bower_components/angular/angular.js"></script>
+        <script type="text/javascript" src="bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+        <script type="text/javascript" src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+        <script type="text/javascript" src="bower_components/angular-route/angular-route.js"></script>
+        <script type="text/javascript" src="bower_components/angular-animate/angular-animate.js"></script>
+        <script type="text/javascript" src="bower_components/angular-facebook/lib/angular-facebook.js"></script>
+        <script type="text/javascript" src="bower_components/ngFx/dist/ngFx.js"></script>
+        
+        <script type="text/javascript" src="models/mm-facebookdmsTravel.js"></script>
+        <script type="text/javascript" src="controllers/mm-notifications.js"></script>
+        <script type="text/javascript" src="controllers/mm-directives.js"></script>
+        <script type="text/javascript" src="controllers/mm-facebook.js"></script>
+        <script type="text/javascript" src="controllers/mm-splash.js"></script>
+        <script type="text/javascript" src="controllers/mm-photogallery.js"></script>
+        <script type="text/javascript" src="controllers/mm-aboutus.js"></script>
+        <script type="text/javascript" src="controllers/mm-documentation.js"></script>
+        <script type="text/javascript" src="index.js"></script>
+    </head>
+
+    <body ng:controller="mainCtrl as m">
+        <mm:nav brandtext="DMS Travel" brandlink="#" brandclass="" class="navbar-default navbar-fixed-top" id="mm-navbar">
+            <mm:navbar class="navbar-header">
+                <mm:navlinks>
+                    <mm:navlink href="#/splash">Welcome</mm:navlink>
+                    <mm:navlink href="#/gallery">Photos</mm:navlink>
+                    <mm:navlink href="#/about">About Us</mm:navlink>
+                    
+                    <mm:navlinkdropdown text="Assignment">
+                        <mm:navlink href="#/documentation">UI Documentation</mm:navlink>
+                        <mm:navlink class="divider"></mm:navlink>
+
+                        <mm:navlink>Debugging:</mm:navlink>
+                        <mm:navlink>$route.current.templateUrl = {{ m.$route.current.templateUrl }}</mm:navlink>
+                        <mm:navlink>$route.current.params = {{ m.$route.current.params }}</mm:navlink>
+                        <mm:navlink>$routeParams = {{ m.$routeParams }}</mm:navlink>
+                        <mm:navlink>$location.path() = {{ m.$location.path() }}</mm:navlink>
+                    </mm:navlinkdropdown>
+                </mm:navlinks>
+            </mm:navbar>
+            <mm:navbar class="navbar-right" ng:controller="facebookLoginCtrl as f">
+                <mm:navlink class="fb-login-link" ng:click="f.performFbLogin()">
+                    <div popover="{{ f.getFbLogtext() }}" 
+                         popover-trigger="mouseenter" 
+                         popover-placement="bottom"
+                         popover-popup-delay="0">
+
+                        <img class="fb-logo" src="images/FB-f-Logo__blue_29.png" height="16" width="16"/>
+                        <span id="fb-logged-in-status">{{ f.getFbUsername() }}</span>
+                    </div>
+                </mm:navlink>
+            </mm:navbar>
+        </mm:nav>
+
+        <!-- Don't modify the inside of this element -->
+        <div class="container-fluid spin-toggle" id="mm-main-container" ng:view>
+            
+        </div>
+    </body>
+</html>
